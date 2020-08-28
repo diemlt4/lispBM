@@ -61,3 +61,5 @@ LispBM's internals are documented as a series of [blog posts](http://svenssonjoe
 2. Build the repl: `cd repl-cps` and then `make`
 
 3. Run the repl: `./repl`
+
+Blog: https://svenssonjoel.github.io/pages/lispbm_zephyros_repl/index.html
